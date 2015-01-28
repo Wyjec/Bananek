@@ -419,5 +419,5 @@ bool Banana::LoadFiles()
 	if(sprite.surface == NULL)
 		return false;
 	return true;
-	//return load_files("banan.png", sprite);
+
 }
